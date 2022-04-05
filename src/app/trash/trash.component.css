@@ -1,0 +1,8 @@
+.container h1{
+    text-align: center;
+}
+.trash-body .card{
+    border: 1px solid blue;
+    width: 425px;
+    border-radius: 15px;
+}

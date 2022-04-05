@@ -1,0 +1,16 @@
+.card{
+    /* margin-top: 15px; */
+    border: 1px solid blue;
+    /* max-width: 768px; */
+    width: 425px;
+    padding: 45px;
+    position: absolute;
+    /* top: 30%; */
+    /* left: 10%; */
+
+    /* position: absolute; */
+  top: 50%; 
+  right: 50%;
+  transform: translate(50%,-50%);
+  border-radius: 15px;
+}

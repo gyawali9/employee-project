@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "name": "Garrett Winters",
+      "salary": 170750,
+      "age": 63,
+      "image": ""
+    },
+    {
+      "id": 3,
+      "name": "sid",
+      "salary": 1236,
+      "age": 56,
+      "image": ""
+    }
+  ],
+  "signup": [
+    {
+      "name": "roshan",
+      "email": "roshan@admin.com",
+      "password": "roshan123",
+      "id": 1
+    }
+  ]
+}
